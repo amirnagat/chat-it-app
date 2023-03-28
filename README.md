@@ -9,7 +9,7 @@ A Chat App project with Chat Engine and React.js is a web application that enabl
 
 
 
-## TO Site
+## To Site
 https://chat-it-app.netlify.app/
 
 ### To Chat Engine site
